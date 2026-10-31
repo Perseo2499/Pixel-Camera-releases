@@ -1,8 +1,8 @@
 {
-  "version": "0.3.7",
-  "versionCode": 10,
-  "apk": "apk/pixel-camera-v0.3.7.apk",
-  "size": 38705378,
-  "sha256": "88912805f659acf868706063ea3a1bec73aff3a7f44be5cd2c1ab9b7e2b7b871",
-  "notes": "Pixel Camera style UI: accent follows your wallpaper, new Photo/Video settings sheets (General, Pro, Creator), mic meter in video, long-press shutter for Magic Capture, tilting leveler, teleprompter restyle."
+  "version": "0.3.8",
+  "versionCode": 11,
+  "apk": "apk/pixel-camera-v0.3.8.apk",
+  "size": 38901986,
+  "sha256": "78c38a18171eb150710923e6853e8282dd26f0dd9f6209997b7d4eace4b28952",
+  "notes": "Much smoother: no more lag when changing options. Pinch to zoom, Pixel-style zoom ruler and adjustment sliders, a full Camera settings screen (camera turns off while it is open), settings that are remembered, video recording works, and fixes from the phone test."
 }
