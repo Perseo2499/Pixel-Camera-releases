@@ -1,8 +1,8 @@
 {
-  "version": "0.3.12",
-  "versionCode": 15,
-  "apk": "apk/pixel-camera-v0.3.12.apk",
+  "version": "0.3.13",
+  "versionCode": 16,
+  "apk": "apk/pixel-camera-v0.3.13.apk",
   "size": 39182694,
-  "sha256": "09945f6dc8df0c790059c50451329a9a594c19f9a5f39121f84bf2d7f616fa37",
-  "notes": "Camera Coach: tap the camera-sparkle icon in Photo, Portrait or Night Sight for AI tips that walk you through a better shot. Add your own API key in Settings > Camera Coach AI (Claude by default). Camera Looks moved to Settings > Photo."
+  "sha256": "367cab3aec9c9e95fd37c220b241fe65f9f8f9d1141bb548f038031eb9cdb6a2",
+  "notes": "Fixes: 4K 60 fps no longer leaves the camera black (falls back once to a working mode), Night Sight chip follows the dial, EV slider matches the Brightness dial, side sliders only show when Quick access controls is on, Pro info row no longer clipped, gallery opens Google Photos. Includes Camera Coach from 0.3.12."
 }
