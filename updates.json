@@ -1,8 +1,8 @@
 {
-  "version": "0.3.6",
-  "versionCode": 9,
-  "apk": "apk/pixel-camera-v0.3.6.apk",
-  "size": 38672610,
-  "sha256": "4d53eb11d7f029e2dd7b43227733d67525a811a5ae5990fa3dec55482783210a",
-  "notes": "Astrophotography with frame alignment and a long-exposure light-trail mode, automatic macro switch to the ultrawide, a .cube LUT importer in Settings, and an optional live ISP telemetry overlay (lens id, ISO, shutter, focus). Plus everything from 0.3.5."
+  "version": "0.3.7",
+  "versionCode": 10,
+  "apk": "apk/pixel-camera-v0.3.7.apk",
+  "size": 38705378,
+  "sha256": "88912805f659acf868706063ea3a1bec73aff3a7f44be5cd2c1ab9b7e2b7b871",
+  "notes": "Pixel Camera style UI: accent follows your wallpaper, new Photo/Video settings sheets (General, Pro, Creator), mic meter in video, long-press shutter for Magic Capture, tilting leveler, teleprompter restyle."
 }
