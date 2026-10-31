@@ -1,8 +1,8 @@
 {
-  "version": "0.3.4",
-  "versionCode": 7,
-  "apk": "apk/pixel-camera-v0.3.4.apk",
-  "size": 38656226,
-  "sha256": "66989065836c83ed60933522492571b67866a2f8dc989e75d8416c3a32d5b050",
-  "notes": "New 3:4 viewfinder with tap-to-focus and a floating zoom arc, 3-row bottom deck, floating Quick Settings and docked Pro controls, Night Sight stacking, Action Pan, macro badge, horizon leveler, volume-key shutter, and an optional root 50MP unlocker in Settings."
+  "version": "0.3.5",
+  "versionCode": 8,
+  "apk": "apk/pixel-camera-v0.3.5.apk",
+  "size": 38656222,
+  "sha256": "728b115d4c0daf55842574f7fd72d5775669c9308be0d14cf4c147904c23f1c7",
+  "notes": "Adds a Check for updates button at the top of Settings (Quick Settings > More). Includes everything from 0.3.4: new 3:4 viewfinder with tap-to-focus and zoom arc, 3-row bottom deck, floating Quick Settings, docked Pro controls, Night Sight, Action Pan, horizon leveler, volume-key shutter and the optional root 50MP unlocker."
 }
