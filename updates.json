@@ -1,8 +1,8 @@
 {
-  "version": "0.3.11",
-  "versionCode": 14,
-  "apk": "apk/pixel-camera-v0.3.11.apk",
-  "size": 38901990,
-  "sha256": "3eab74072f40f11135f0232900da5070869986c8acf08ae5a992dd881d35be36",
-  "notes": "Quick controls now look like the Pixel Camera: tile row with Reset All, Night Sight, Brightness, Shadows, White Balance, Focus, Shutter and ISO, and the value dial above the shutter. Night Sight dial: Off, Auto, Max, Astro."
+  "version": "0.3.12",
+  "versionCode": 15,
+  "apk": "apk/pixel-camera-v0.3.12.apk",
+  "size": 39182694,
+  "sha256": "09945f6dc8df0c790059c50451329a9a594c19f9a5f39121f84bf2d7f616fa37",
+  "notes": "Camera Coach: tap the camera-sparkle icon in Photo, Portrait or Night Sight for AI tips that walk you through a better shot. Add your own API key in Settings > Camera Coach AI (Claude by default). Camera Looks moved to Settings > Photo."
 }
