@@ -1,8 +1,8 @@
 {
-  "version": "0.3.8",
-  "versionCode": 11,
-  "apk": "apk/pixel-camera-v0.3.8.apk",
-  "size": 38901986,
-  "sha256": "78c38a18171eb150710923e6853e8282dd26f0dd9f6209997b7d4eace4b28952",
-  "notes": "Much smoother: no more lag when changing options. Pinch to zoom, Pixel-style zoom ruler and adjustment sliders, a full Camera settings screen (camera turns off while it is open), settings that are remembered, video recording works, and fixes from the phone test."
+  "version": "0.3.9",
+  "versionCode": 12,
+  "apk": "apk/pixel-camera-v0.3.9.apk",
+  "size": 38885602,
+  "sha256": "d28b933a2d26074feb430e5b0128bc3796ab201c85f3ead8295c676c17c06d67",
+  "notes": "Teleprompter and mic meter now look like the Pixel Camera: big translucent card with green text, and a mic icon with a green level bar in the top bar. Includes everything from 0.3.8 (smoother camera, pinch zoom, sliders, settings screen, video recording)."
 }
