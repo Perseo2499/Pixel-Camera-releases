@@ -1,8 +1,8 @@
 {
-  "version": "0.3.3",
-  "versionCode": 6,
-  "apk": "apk/pixel-camera-v0.3.3.apk",
-  "size": 38573534,
-  "sha256": "54bf1f606fd3f4dcdbb8f32193faa94006c7f66d7a94a053fe92598082e65ac3",
-  "notes": "In-app updates now come from this public repo, so they work while the source stays private."
+  "version": "0.3.4",
+  "versionCode": 7,
+  "apk": "apk/pixel-camera-v0.3.4.apk",
+  "size": 38656226,
+  "sha256": "66989065836c83ed60933522492571b67866a2f8dc989e75d8416c3a32d5b050",
+  "notes": "New 3:4 viewfinder with tap-to-focus and a floating zoom arc, 3-row bottom deck, floating Quick Settings and docked Pro controls, Night Sight stacking, Action Pan, macro badge, horizon leveler, volume-key shutter, and an optional root 50MP unlocker in Settings."
 }
