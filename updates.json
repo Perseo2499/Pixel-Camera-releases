@@ -1,8 +1,8 @@
 {
-  "version": "0.3.13",
-  "versionCode": 16,
-  "apk": "apk/pixel-camera-v0.3.13.apk",
-  "size": 39182694,
-  "sha256": "367cab3aec9c9e95fd37c220b241fe65f9f8f9d1141bb548f038031eb9cdb6a2",
-  "notes": "Fixes: 4K 60 fps no longer leaves the camera black (falls back once to a working mode), Night Sight chip follows the dial, EV slider matches the Brightness dial, side sliders only show when Quick access controls is on, Pro info row no longer clipped, gallery opens Google Photos. Includes Camera Coach from 0.3.12."
+  "version": "0.3.14",
+  "versionCode": 17,
+  "apk": "apk/pixel-camera-v0.3.14.apk",
+  "size": 39199078,
+  "sha256": "abe6b3bef95d825fe5f8d9a8c9c5f14367dbf4484109de979247fd0cd15ea118",
+  "notes": "Camera Coach can now use Google Gemini (Settings > Camera Coach AI > AI provider). 50 MP fix: full-resolution photos are captured as JPEG and the badge shows the real size you got."
 }
