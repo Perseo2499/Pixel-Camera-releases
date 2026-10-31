@@ -1,8 +1,8 @@
 {
-  "version": "0.3.15",
-  "versionCode": 18,
-  "apk": "apk/pixel-camera-v0.3.15.apk",
+  "version": "0.3.16",
+  "versionCode": 19,
+  "apk": "apk/pixel-camera-v0.3.16.apk",
   "size": 39199078,
-  "sha256": "93f559d01973b6bdb13dab2313f064d8a8f6f998adbc6bd07478fdb0936727b5",
-  "notes": "50 MP: this phone only gives apps 12 MP photos, so the badge now says 12 MP honestly. Video files are named after what really records (e.g. 4K 30 fps SDR after a fallback), no more false notice when switching back to 1080p, and Settings shows the right storage folder."
+  "sha256": "0d33ff6812457fd64e6319188302acfe8410bbfa36a9cbc15456ef5d1c8243ec",
+  "notes": "Quick access controls now look like Google's: slim white balance (left) and focus (right) rulers on the edges. The tune dial (Brightness, Night Sight...) now slides under a fixed marker like the Pixel app."
 }
