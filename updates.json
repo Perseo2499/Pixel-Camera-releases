@@ -1,8 +1,8 @@
 {
-  "version": "0.3.26",
-  "versionCode": 29,
-  "apk": "apk/pixel-camera-v0.3.26.apk",
-  "size": 39231870,
-  "sha256": "1bf20a6ab2508ece2203035c55ebc855ec8046cee627414299a55c9702fe36cb",
-  "notes": "Google-style settings icon, photo/video toggle and mic meter; animated settings; no dark box after a shot; 4K60 keeps 60 fps when it has to fall back."
+  "version": "0.3.27",
+  "versionCode": 30,
+  "apk": "apk/pixel-camera-v0.3.27.apk",
+  "size": 39231874,
+  "sha256": "09d5b50f6ce32247ae8037cc3abad64eb138cbcc2d03919df3a753b33d5808ef",
+  "notes": "Real 4K 60 fps (SDR, Standard stabilization, like Google). Shutter ring animation after each photo, no save toast."
 }
