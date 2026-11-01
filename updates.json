@@ -1,8 +1,8 @@
 {
-  "version": "0.3.18",
-  "versionCode": 21,
-  "apk": "apk/pixel-camera-v0.3.18.apk",
-  "size": 39182694,
-  "sha256": "71cc2354fc2a9f9c8085a73cffe0c92c1c97efbf3f0fa457f2d9fde1ad4091bc",
-  "notes": "Safety update: all root features are turned off. The app no longer runs any root command on start, and the 50MP unlock and systemless module are removed. Settings > Advanced > Remove root changes (asks first) deletes the old module and camera props."
+  "version": "0.3.19",
+  "versionCode": 22,
+  "apk": "apk/pixel-camera-v0.3.19.apk",
+  "size": 39215462,
+  "sha256": "7ba52f22330d1c57d6aa0891602f410c932e8fd948e621902a9c711ee8ec0e62",
+  "notes": "Google-style shutter, buttons, icons and zoom chips. Mode chip centered above the shutter. New level and edge sliders. 16:9 now fills the screen. Root 50 MP is now temporary and memory-only (no module); a reboot undoes it."
 }
