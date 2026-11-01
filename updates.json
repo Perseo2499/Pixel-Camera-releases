@@ -1,8 +1,8 @@
 {
-  "version": "0.3.25",
-  "versionCode": 28,
-  "apk": "apk/pixel-camera-v0.3.25.apk",
-  "size": 39231846,
-  "sha256": "7a5a0927f1113c7ae8c6b2ae25f63cfaadce2ab89d102874750cd6211c989989",
-  "notes": "Settings sheet like Google's (full-width sheet, handle, General/Pro buttons, Timer 3/5/10, phone-shaped ratio icons). Includes 0.3.24 chip and 50 MP fixes."
+  "version": "0.3.26",
+  "versionCode": 29,
+  "apk": "apk/pixel-camera-v0.3.26.apk",
+  "size": 39231870,
+  "sha256": "1bf20a6ab2508ece2203035c55ebc855ec8046cee627414299a55c9702fe36cb",
+  "notes": "Google-style settings icon, photo/video toggle and mic meter; animated settings; no dark box after a shot; 4K60 keeps 60 fps when it has to fall back."
 }
