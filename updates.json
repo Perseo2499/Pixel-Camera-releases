@@ -1,8 +1,8 @@
 {
-  "version": "0.3.24",
-  "versionCode": 27,
-  "apk": "apk/pixel-camera-v0.3.24.apk",
+  "version": "0.3.25",
+  "versionCode": 28,
+  "apk": "apk/pixel-camera-v0.3.25.apk",
   "size": 39231846,
-  "sha256": "89a28eb8a6157672a12daab5cf2f7d6f2a593c76c08afc6d81c5438583dfbe56",
-  "notes": "Bottom chips like Google's (dark bold text, tighter spacing, darker zoom pill). 50 MP colours, brightness and rotation fixed. Portrait opens at 2x."
+  "sha256": "7a5a0927f1113c7ae8c6b2ae25f63cfaadce2ab89d102874750cd6211c989989",
+  "notes": "Settings sheet like Google's (full-width sheet, handle, General/Pro buttons, Timer 3/5/10, phone-shaped ratio icons). Includes 0.3.24 chip and 50 MP fixes."
 }
