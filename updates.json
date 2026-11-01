@@ -1,8 +1,8 @@
 {
-  "version": "0.3.22",
-  "versionCode": 25,
-  "apk": "apk/pixel-camera-v0.3.22.apk",
-  "size": 39231850,
-  "sha256": "74e49c8de576bd24424091787178cf6dd3e58737f38c92d771aceeb0b06e8655",
-  "notes": "Real 50 MP without root: full-resolution RAW captured and developed in the app (Google Camera's method). Root option removed."
+  "version": "0.3.23",
+  "versionCode": 26,
+  "apk": "apk/pixel-camera-v0.3.23.apk",
+  "size": 39231846,
+  "sha256": "a8a5cfd30f9e30665a39e0aa7bdd4761ec73b9630875d87632796234b5ec4a66",
+  "notes": "Closer to Google Camera: Google Sans font, lighter selected chips, controls positioned like Google's, no extra pills/grid/histogram, info row on tap-to-focus, solid tune sheet, hidden status bar. Includes real 50 MP (RAW)."
 }
