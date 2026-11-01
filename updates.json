@@ -1,8 +1,8 @@
 {
-  "version": "0.3.17",
-  "versionCode": 20,
-  "apk": "apk/pixel-camera-v0.3.17.apk",
-  "size": 39199078,
-  "sha256": "f45794e3ed87e228f5287677d797d39992700643ea139050349c24bdf925e9c3",
-  "notes": "Quick sliders now behave like Google's: they appear when you tap to focus, stay about 6 seconds (5 seconds after you stop using them) and fade out. Focus peaking only shows for focus set in Pro controls, and the focus circle has no yellow dot."
+  "version": "0.3.18",
+  "versionCode": 21,
+  "apk": "apk/pixel-camera-v0.3.18.apk",
+  "size": 39182694,
+  "sha256": "71cc2354fc2a9f9c8085a73cffe0c92c1c97efbf3f0fa457f2d9fde1ad4091bc",
+  "notes": "Safety update: all root features are turned off. The app no longer runs any root command on start, and the 50MP unlock and systemless module are removed. Settings > Advanced > Remove root changes (asks first) deletes the old module and camera props."
 }
