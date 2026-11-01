@@ -1,8 +1,8 @@
 {
-  "version": "0.3.20",
-  "versionCode": 23,
-  "apk": "apk/pixel-camera-v0.3.20.apk",
-  "size": 39215462,
-  "sha256": "9c6dd4e0b10bb24626082a36a4d21d45798cf864581bf4f89e15697c963ab5bb",
-  "notes": "Focus circle moves to where you tap. Controls slightly smaller, like Google's. Status bar hidden over the camera."
+  "version": "0.3.21",
+  "versionCode": 24,
+  "apk": "apk/pixel-camera-v0.3.21.apk",
+  "size": 39199078,
+  "sha256": "37e345fed6e1f25ca9233dbf8a5deda0dd74f479401622dc377cccd86a0816d3",
+  "notes": "Layout measured from Google Camera on your phone: shutter, chips, buttons, toggle, edge sliders, focus/level circle now match its sizes."
 }
