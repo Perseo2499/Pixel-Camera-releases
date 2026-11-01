@@ -1,8 +1,8 @@
 {
-  "version": "0.3.21",
-  "versionCode": 24,
-  "apk": "apk/pixel-camera-v0.3.21.apk",
-  "size": 39199078,
-  "sha256": "37e345fed6e1f25ca9233dbf8a5deda0dd74f479401622dc377cccd86a0816d3",
-  "notes": "Layout measured from Google Camera on your phone: shutter, chips, buttons, toggle, edge sliders, focus/level circle now match its sizes."
+  "version": "0.3.22",
+  "versionCode": 25,
+  "apk": "apk/pixel-camera-v0.3.22.apk",
+  "size": 39231850,
+  "sha256": "74e49c8de576bd24424091787178cf6dd3e58737f38c92d771aceeb0b06e8655",
+  "notes": "Real 50 MP without root: full-resolution RAW captured and developed in the app (Google Camera's method). Root option removed."
 }
