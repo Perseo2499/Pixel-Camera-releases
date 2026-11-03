@@ -1,8 +1,8 @@
 {
-  "version": "0.3.29",
-  "versionCode": 32,
-  "apk": "apk/pixel-camera-v0.3.29.apk",
-  "size": 39264662,
-  "sha256": "2ab773ce1ad6dd56efdec0fd7ef957efe646ba091c8e95e0b95e4c629f63bd48",
-  "notes": "Photo/video switch polish, Google-style crossed-out Off icons and help icons in settings."
+  "version": "0.3.30",
+  "versionCode": 33,
+  "apk": "apk/pixel-camera-v0.3.30.apk",
+  "size": 39297430,
+  "sha256": "4b4b0a07941b3758886befbd84d89c1cdf19489a829fc656856a2704c7568d80",
+  "notes": "Night Sight, Astro, Long Exposure and Action Pan now merge real RAW frames. Better Best Take and Add Me. Colours and animations follow Material 3."
 }
